@@ -1,13 +1,13 @@
-package org.qcri.rheem.graphchi.mappings;
+package io.rheem.rheem.graphchi.mappings;
 
-import org.qcri.rheem.basic.operators.PageRankOperator;
-import org.qcri.rheem.core.mapping.Mapping;
-import org.qcri.rheem.core.mapping.OperatorPattern;
-import org.qcri.rheem.core.mapping.PlanTransformation;
-import org.qcri.rheem.core.mapping.ReplacementSubplanFactory;
-import org.qcri.rheem.core.mapping.SubplanPattern;
-import org.qcri.rheem.graphchi.operators.GraphChiPageRankOperator;
-import org.qcri.rheem.graphchi.platform.GraphChiPlatform;
+import io.rheem.rheem.basic.operators.PageRankOperator;
+import io.rheem.rheem.core.mapping.Mapping;
+import io.rheem.rheem.core.mapping.OperatorPattern;
+import io.rheem.rheem.core.mapping.PlanTransformation;
+import io.rheem.rheem.core.mapping.ReplacementSubplanFactory;
+import io.rheem.rheem.core.mapping.SubplanPattern;
+import io.rheem.rheem.graphchi.operators.GraphChiPageRankOperator;
+import io.rheem.rheem.graphchi.platform.GraphChiPlatform;
 
 import java.util.Collection;
 import java.util.Collections;

@@ -1,14 +1,14 @@
-package org.qcri.rheem.graphchi.plugin;
+package io.rheem.rheem.graphchi.plugin;
 
-import org.qcri.rheem.core.api.Configuration;
-import org.qcri.rheem.core.mapping.Mapping;
-import org.qcri.rheem.core.optimizer.channels.ChannelConversion;
-import org.qcri.rheem.core.platform.Platform;
-import org.qcri.rheem.core.plugin.Plugin;
-import org.qcri.rheem.core.util.fs.LocalFileSystem;
-import org.qcri.rheem.graphchi.channels.ChannelConversions;
-import org.qcri.rheem.graphchi.mappings.Mappings;
-import org.qcri.rheem.graphchi.platform.GraphChiPlatform;
+import io.rheem.rheem.core.api.Configuration;
+import io.rheem.rheem.core.mapping.Mapping;
+import io.rheem.rheem.core.optimizer.channels.ChannelConversion;
+import io.rheem.rheem.core.platform.Platform;
+import io.rheem.rheem.core.plugin.Plugin;
+import io.rheem.rheem.core.util.fs.LocalFileSystem;
+import io.rheem.rheem.graphchi.channels.ChannelConversions;
+import io.rheem.rheem.graphchi.mappings.Mappings;
+import io.rheem.rheem.graphchi.platform.GraphChiPlatform;
 
 import java.io.File;
 import java.util.Collection;

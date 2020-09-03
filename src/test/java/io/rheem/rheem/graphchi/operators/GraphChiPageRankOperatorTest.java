@@ -1,20 +1,20 @@
-package org.qcri.rheem.graphchi.operators;
+package io.rheem.rheem.graphchi.operators;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.qcri.rheem.basic.channels.FileChannel;
-import org.qcri.rheem.core.api.Configuration;
-import org.qcri.rheem.core.api.Job;
-import org.qcri.rheem.core.optimizer.DefaultOptimizationContext;
-import org.qcri.rheem.core.optimizer.OptimizationContext;
-import org.qcri.rheem.core.plan.rheemplan.ExecutionOperator;
-import org.qcri.rheem.core.platform.ChannelInstance;
-import org.qcri.rheem.core.platform.CrossPlatformExecutor;
-import org.qcri.rheem.core.profiling.FullInstrumentationStrategy;
-import org.qcri.rheem.graphchi.GraphChi;
-import org.qcri.rheem.graphchi.execution.GraphChiExecutor;
-import org.qcri.rheem.graphchi.platform.GraphChiPlatform;
-import org.qcri.rheem.java.channels.StreamChannel;
+import io.rheem.rheem.basic.channels.FileChannel;
+import io.rheem.rheem.core.api.Configuration;
+import io.rheem.rheem.core.api.Job;
+import io.rheem.rheem.core.optimizer.DefaultOptimizationContext;
+import io.rheem.rheem.core.optimizer.OptimizationContext;
+import io.rheem.rheem.core.plan.rheemplan.ExecutionOperator;
+import io.rheem.rheem.core.platform.ChannelInstance;
+import io.rheem.rheem.core.platform.CrossPlatformExecutor;
+import io.rheem.rheem.core.profiling.FullInstrumentationStrategy;
+import io.rheem.rheem.graphchi.GraphChi;
+import io.rheem.rheem.graphchi.execution.GraphChiExecutor;
+import io.rheem.rheem.graphchi.platform.GraphChiPlatform;
+import io.rheem.rheem.java.channels.StreamChannel;
 
 import java.io.IOException;
 

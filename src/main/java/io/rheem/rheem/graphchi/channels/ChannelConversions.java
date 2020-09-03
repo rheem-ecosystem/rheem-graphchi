@@ -1,7 +1,7 @@
-package org.qcri.rheem.graphchi.channels;
+package io.rheem.rheem.graphchi.channels;
 
-import org.qcri.rheem.core.optimizer.channels.ChannelConversion;
-import org.qcri.rheem.graphchi.platform.GraphChiPlatform;
+import io.rheem.rheem.core.optimizer.channels.ChannelConversion;
+import io.rheem.rheem.graphchi.platform.GraphChiPlatform;
 
 import java.util.Collection;
 import java.util.Collections;

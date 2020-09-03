@@ -1,14 +1,14 @@
-package org.qcri.rheem.graphchi.platform;
+package io.rheem.rheem.graphchi.platform;
 
 import edu.cmu.graphchi.io.CompressedIO;
-import org.qcri.rheem.core.api.Configuration;
-import org.qcri.rheem.core.optimizer.costs.LoadProfileToTimeConverter;
-import org.qcri.rheem.core.optimizer.costs.LoadToTimeConverter;
-import org.qcri.rheem.core.optimizer.costs.TimeToCostConverter;
-import org.qcri.rheem.core.platform.Executor;
-import org.qcri.rheem.core.platform.Platform;
-import org.qcri.rheem.core.util.ReflectionUtils;
-import org.qcri.rheem.graphchi.execution.GraphChiExecutor;
+import io.rheem.rheem.core.api.Configuration;
+import io.rheem.rheem.core.optimizer.costs.LoadProfileToTimeConverter;
+import io.rheem.rheem.core.optimizer.costs.LoadToTimeConverter;
+import io.rheem.rheem.core.optimizer.costs.TimeToCostConverter;
+import io.rheem.rheem.core.platform.Executor;
+import io.rheem.rheem.core.platform.Platform;
+import io.rheem.rheem.core.util.ReflectionUtils;
+import io.rheem.rheem.graphchi.execution.GraphChiExecutor;
 
 /**
  * GraphChi {@link Platform} for Rheem.

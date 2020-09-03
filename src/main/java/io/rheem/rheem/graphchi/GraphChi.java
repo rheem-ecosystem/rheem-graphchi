@@ -1,7 +1,7 @@
-package org.qcri.rheem.graphchi;
+package io.rheem.rheem.graphchi;
 
-import org.qcri.rheem.graphchi.platform.GraphChiPlatform;
-import org.qcri.rheem.graphchi.plugin.GraphChiPlugin;
+import io.rheem.rheem.graphchi.platform.GraphChiPlatform;
+import io.rheem.rheem.graphchi.plugin.GraphChiPlugin;
 
 /**
  * Register for relevant components of this module.
