@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19482843-3521-4133-b836-58cbc1fdab1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="s9s-tester@backend-cluster.us-east-2.eksctl.io" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1h1825Ojk2I8iGju2m36JpjK7hl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19482843-3521-4133-b836-58cbc1fdab1d" name="Default Changelist" comment="" />
+      <created>1599167028345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599167028345</updated>
+      <workItem from="1599167059351" duration="1482000" />
+    </task>
+    <task id="LOCAL-00001" summary="splitted from Rheem-ecosystem/rheem">
+      <created>1599170717586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599170717586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="splitted from Rheem-ecosystem/rheem" />
+    <option name="LAST_COMMIT_MESSAGE" value="splitted from Rheem-ecosystem/rheem" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="3318" height="572" key="GridCell.Tab.0.bottom" timestamp="1599170786917">
+      <screen x="0" y="0" width="3360" height="1890" />
+    </state>
+    <state width="3318" height="572" key="GridCell.Tab.0.bottom/0.0.3360.1890/-1792.770.1792.1120@0.0.3360.1890" timestamp="1599170786917" />
+    <state width="3318" height="572" key="GridCell.Tab.0.center" timestamp="1599170786915">
+      <screen x="0" y="0" width="3360" height="1890" />
+    </state>
+    <state width="3318" height="572" key="GridCell.Tab.0.center/0.0.3360.1890/-1792.770.1792.1120@0.0.3360.1890" timestamp="1599170786915" />
+    <state width="3318" height="572" key="GridCell.Tab.0.left" timestamp="1599170786914">
+      <screen x="0" y="0" width="3360" height="1890" />
+    </state>
+    <state width="3318" height="572" key="GridCell.Tab.0.left/0.0.3360.1890/-1792.770.1792.1120@0.0.3360.1890" timestamp="1599170786914" />
+    <state width="3318" height="572" key="GridCell.Tab.0.right" timestamp="1599170786916">
+      <screen x="0" y="0" width="3360" height="1890" />
+    </state>
+    <state width="3318" height="572" key="GridCell.Tab.0.right/0.0.3360.1890/-1792.770.1792.1120@0.0.3360.1890" timestamp="1599170786916" />
+  </component>
+</project>
